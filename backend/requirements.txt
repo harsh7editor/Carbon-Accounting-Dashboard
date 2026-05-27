@@ -1,0 +1,8 @@
+django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+corsheaders
+psycopg2-binary
+celery[redis]
+redis
+gunicorn
